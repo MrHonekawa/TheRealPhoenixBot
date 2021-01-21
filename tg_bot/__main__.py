@@ -149,7 +149,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add Primus to your group.",
+                                text="Add Batman to your group.",
                                 url="t.me/{}?startgroup=botstart".format(bot.username),
                             )
                         ]
@@ -157,7 +157,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 ),
             )
     else:
-        update.effective_message.reply_text("Yo, I'm Primus, Thanks for deploying me!")
+        update.effective_message.reply_text("Yo, I'm Batman, Thanks for deploying me! Don't forget to check out our updates channel - @DragonUpdates")
 
 
 # for test purposes
