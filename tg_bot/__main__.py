@@ -25,13 +25,13 @@ Hi {}, my name is {}!
 You can find the list of available commands with /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/801d43ad92823662bce38.jpg"
+BOT_IMAGE = "https://telegra.ph/file/d8afec55c32ac9fb0d93f.jpg"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @tgbotsupport or @cegofficial & Updates Channel @tgbotlab
+If you have any questions on how to use me, head over to [Support](https://t.me/DragonAssociationSupport) & [Updates Channel](https://t.me/DragonUpdates)
 
 *Main* commands available:
  - /start: start the bot
